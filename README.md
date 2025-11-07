@@ -1,8 +1,7 @@
-# 🌐 Portfólio - Patrick Canuto
+# Portfólio - Patrick Canuto
 
 Bem-vindo ao meu portfólio!  
-Este projeto foi desenvolvido como parte do **CP3 de Desenvolvimento Web**, com foco em **Python, SQL e Data Science**.
-
+Este projeto foi desenvolvido como parte do **CP3 de Desenvolvimento Web**
 ## Tecnologias Utilizadas
 - React.js
 - JavaScript (ES6+)
