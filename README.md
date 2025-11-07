@@ -1,16 +1,42 @@
-# React + Vite
+# 🌐 Portfólio - Patrick Canuto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu portfólio!  
+Este projeto foi desenvolvido como parte do **CP3 de Desenvolvimento Web**, com foco em **Python, SQL e Data Science**.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
+- React.js
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Vercel (deploy)
+- Git e GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sobre o Projeto
+O portfólio apresenta meus principais projetos e aprendizados na área de tecnologia e análise de dados.  
+Inclui seções de apresentação pessoal, projetos e formas de contato.
 
-## React Compiler
+## Projetos em Destaque
+1. **Análise de Dados com Python**
+2. **Banco de Dados com SQL**
+3. **Dashboard de Vendas com Python**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Links Importantes
+-  **Site Online:** [Acesse na Vercel](https://cp3-patrickPortfolio.vercel.app)
+-  **Repositório:** [GitHub - cp3-patrickPortfolio](https://github.com/patricxk7/cp3-patrickPortfolio)
 
-## Expanding the ESLint configuration
+##  Estrutura do Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+src/
+├── components/
+│ ├── HomeSection.jsx
+│ ├── ProjectsSection.jsx
+│ ├── ProjectCard.jsx
+│ ├── ProjectDetail.jsx
+│ └── ContactSection.jsx
+├── data/
+│ ├── mockProjects.js
+│ └── socialLinks.js
+├── styles/
+│ └── global.css
+├── App.jsx
+├── index.js
+└── main.jsx
