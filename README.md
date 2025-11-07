@@ -19,8 +19,7 @@ Inclui seções de apresentação pessoal, projetos e formas de contato.
 3. **Dashboard de Vendas com Python**
 
 ## Links Importantes
--  **Site Online:** [Acesse na Vercel](https://cp3-patrickPortfolio.vercel.app)
--  [https://cp3-patrickPortfolio.vercel.app](https://cp3-patrick-portfolio.vercel.app)
+-  **Site Online:** [https://cp3-patrickPortfolio.vercel.app](https://cp3-patrick-portfolio.vercel.app)
 -  **Repositório:** [GitHub - cp3-patrickPortfolio](https://github.com/patricxk7/cp3-patrickPortfolio)
 
 ##  Estrutura do Projeto
